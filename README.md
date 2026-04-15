@@ -1,11 +1,3 @@
-<div style="
-  border: 3px solid #00f2ff;
-  padding: 20px;
-  border-radius: 15px;
-  box-shadow: 0 0 10px #00f2ff,
-              0 0 20px #ff00ff,
-              0 0 40px #00f2ff;
-">
 
  💎 RUHANI AFROZ - DATA ANALYST 💎
  🎯 🤖 
