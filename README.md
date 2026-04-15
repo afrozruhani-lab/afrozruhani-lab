@@ -1,21 +1,16 @@
-# 💙 *💎 RUHANI AFROZ - DATA ANALYST 💎*
+<div style="
+  border: 3px solid #00f2ff;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #00f2ff,
+              0 0 20px #ff00ff,
+              0 0 40px #00f2ff;
+">
 
-> 💙 _"Turning data into decisions, insights into impact"_ 💙
-
----
-
-## 🎯 🤖 AI DATA ASSISTANT
+ 💎 RUHANI AFROZ - DATA ANALYST 💎
+ 🎯 🤖 
 
 ![AI Animation](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
-
-💬 **AI:** Hello Ruhani Afroz 👋  
-💬 **AI:** Ask me anything about Data Science, Python, SQL, ML 🚀  
-💬 **AI:** You are becoming a *job-ready Data Analyst* 💙  
-
----
-
-## ⚡ 💙 CORE DATA ENGINE (SKILLS)
 
 💙 ***Python*** → Data analysis, ML, automation  
 💙 ***SQL*** → Database & queries  
@@ -24,41 +19,22 @@
 💙 ***Django*** → Web apps  
 💙 ***Machine Learning*** → Predictive models  
 
----
-
-## 🧠 📊 ABOUT ME
+ 🧠 📊 ABOUT ME
 
 💙 ***Ruhani Afroz*** is a passionate Data Analyst  
 💙 Focused on *Python, SQL, Power BI & Machine Learning*  
 💙 Loves turning raw data into meaningful insights  
 
----
-
-## 📂 🚀 PROJECTS
+ 📂 🚀 PROJECTS
 
 💙 📊 Sales Dashboard (Power BI)  
 💙 🤖 ML Prediction Model  
 💙 🌐 Django Data Apps  
 💙 📈 Data Cleaning & Analysis Projects  
 
----
-
-
-## 🎬 📊 DATA ANALYST ANIMATION
+🎬 📊 DATA ANALYST ANIMATION
 
 
 ![Girl Coding](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 
-
-## 📫 📄 DOWNLOAD CV
-
-👉 Replace `your-cv-link` with your actual file link
-
-[💙 Download CV](your-cv-link)
-
----
-
-## 🔥 ⚡ FINAL NOTE
-
-💙 _Keep learning, keep building, keep analyzing data_  
-💙 ***Ruhani Afroz → Future Data Scientist 🚀***
+</div>
