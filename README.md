@@ -1,5 +1,6 @@
 
  💎 RUHANI AFROZ - DATA ANALYST 💎
+IT Specialist – Artificial Intelligence    Certiport (Pearson VUE), PYTHON and DATA Specialist (BUET, DU, DIPTI, Certipor(pearson VUE), CREATIVE IT) Data Analyst.
  🎯 🤖 
 
 ![AI Animation](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
